@@ -35,14 +35,6 @@ sudo ./user_create.sh
 cat user_creation.log
 ```
 
-## 📊 Output Example
-
-```
-User alice created successfully.
-User bob created successfully.
-User charlie created successfully.
-```
-
 ## 🔐 Security
 
 • Default password: `Pass@123`  
